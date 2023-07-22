@@ -1,7 +1,7 @@
 # Zhang's Camera Calibration
 This project implements camera calibration method as described by Zhengyou Zhang in his 1998 paper [”A Flexible New Technique for Camera Calibration”](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf)
 
-<img src="results/input/7.png"  alt="Original" width="300"/> <img src="results/new_undistored/result7.png" alt="Undistorted" width="300"/>
+<img src="camcalib.jpg"  alt="Original" width="300"/> <img src="camcalibres.jpg" alt="Undistorted" width="300"/>
 ## Run instructions
 
 ```
